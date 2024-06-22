@@ -1,0 +1,26 @@
+Case 1:-
+Input
+s =
+"III"
+Output
+3
+Expected
+3
+
+Case 2:-
+Input
+s =
+"LVIII"
+Output
+58
+Expected
+58
+
+Case 3:-
+Input
+s =
+"MCMXCIV"
+Output
+1994
+Expected
+1994
